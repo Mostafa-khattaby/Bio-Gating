@@ -1,0 +1,13 @@
+{
+  "name": "biogating-android",
+  "version": "1.0.0",
+  "description": "BioGating SAF Engineering Mobile App",
+  "scripts": {
+    "build": "echo 'Static web assets ready'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}

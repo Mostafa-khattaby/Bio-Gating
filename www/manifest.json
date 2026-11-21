@@ -1,0 +1,10 @@
+{
+  "name": "BioGating — SAF Engineering Tool",
+  "short_name": "BioGating",
+  "description": "HEFA-SAF Yield Prediction, ASTM D7566 Compliance & Fuel Blending",
+  "start_url": "https://biogating.onrender.com/yield",
+  "display": "standalone",
+  "background_color": "#071915",
+  "theme_color": "#065f46",
+  "orientation": "portrait"
+}

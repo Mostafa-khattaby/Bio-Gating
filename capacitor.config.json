@@ -1,0 +1,13 @@
+{
+  "appId": "com.cairouni.biogating",
+  "appName": "BioGating",
+  "webDir": "www",
+  "server": {
+    "url": "https://biogating.onrender.com/yield",
+    "cleartext": false,
+    "allowNavigation": ["biogating.onrender.com"]
+  },
+  "android": {
+    "backgroundColor": "#071915"
+  }
+}
